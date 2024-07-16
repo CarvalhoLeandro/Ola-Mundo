@@ -18,5 +18,25 @@ Número|Nome|Nota
 3|Lucas|9.5
 4|Wanja|8.5
 
+Par ou Ímpar em python
+```
+num = int(input('Digite um valor: ')
+if num % 2 == 0:
+    print(f'O valor {num} é PAR)
+else
+    print(f'O valor {num} é ÍMPAR)
+```
+
+Par ou Ímpar em C
+```
+printf("Digite um Valor: ");
+scanf("%d", &num);
+if(num % 2 == 0)
+    printf("O valor %d é PAR", num);
+else
+    printf("O valor %d é ÍMPAR, num);
+```
+
+
 
 
