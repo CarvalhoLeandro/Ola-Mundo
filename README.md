@@ -11,4 +11,3 @@ __*Lista de Tarefas:*__
 - [ ] Fazer o frontend e o backend
 
 
-![Octocat do Leandro](https://github.com/user-attachments/assets/46e9cf42-e01a-4faf-9f27-72472a865418)
